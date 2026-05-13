@@ -9,7 +9,7 @@ This project implements a safe and isolated ransomware simulation environment de
 
 The project was developed strictly for educational and research purposes and must only be executed within an isolated virtual machine environment.
 
-Do to ethical reasons, I will not be adding the ransomware script to this GitHub. If it is needed for grading (e.g. you are the professor or TA) please contact me via canvas or via email at  kevin.hofmann@rutgers.edu.
+Do to ethical reasons, I will not be adding the ransomware script to this GitHub. If it is needed for grading (e.g. you are the professor or TA) please contact me via canvas or email at kevin.hofmann@rutgers.edu.
 
 ---
 

@@ -24,16 +24,6 @@ This project simulates ransomware behavior and performs real file encryption ope
 
 ---
 
-# System Requirements
-
-## Hardware Requirements
-
-* Minimum 8 GB RAM
-* At least 25 GB free storage
-* Virtualization enabled in BIOS
-
----
-
 # Software Requirements
 
 ## Required Software
